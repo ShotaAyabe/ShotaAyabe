@@ -10,11 +10,7 @@
 ### Background and Education
 |  Year  |  Month  |  Value  |
 | ---- | ---- | ---- |
-|  2017  |  3  |  Fuchu City Fuchu Third Middle School Graduated  |
-|  2017  |  4  |  Entered Komaba Gakuen Private High School  |
-|  2020  |  3  |  Komaba Gakuen Private High School Graduated  |
-|  2020  |  4  |  Entered Kaetsu University, Department of Business Administration and Economics  |
-|  2024  |  3  |  Kaetsu University, Department of Business Administration and Economics Expected Graduation  |
+|  2024  |  3  | University, Department of Business Administration and Economics Expected Graduation  |
 
 
 <!--
